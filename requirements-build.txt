@@ -1,0 +1,6 @@
+# Build-time dependencies for Windows 7 SP1/10/11 x64 packages.
+# Python 3.8.10 is the final CPython Windows release with official Windows 7
+# support.
+# The generated EXE bundles Python and Tk for offline end-user operation.
+pyinstaller==5.13.2
+Pillow==10.4.0

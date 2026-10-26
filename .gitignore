@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/*
+!dist/*.exe
+!dist/SHA256SUMS.txt
+/LanBridge-*-x64/
+%SystemDrive%/
+.pytest_cache/
+.ruff_cache/
